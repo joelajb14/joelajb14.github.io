@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Santa Fe Std Regular';
   src:
-    url('https://github.com/joelajb14/alcsa/blob/main/SantaFeStd/SantaFeStd.ttf') format('truetype');
+    url('SantaFeStd/stylesheet.css /SantaFeStd/SantaFeStd.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
